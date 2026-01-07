@@ -61,6 +61,11 @@
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-16" target="Q-ZvsGQuiJrm9gw-XMOJ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-16" value="差异化影响分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="730" width="120" height="40" as="geometry" />
         </mxCell>
