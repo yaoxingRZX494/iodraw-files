@@ -99,10 +99,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-49" value="变量选取" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry x="414" y="440" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-51" value="模型选择" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="440" width="90" height="30" as="geometry" />
+          <mxGeometry x="520" y="440" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
