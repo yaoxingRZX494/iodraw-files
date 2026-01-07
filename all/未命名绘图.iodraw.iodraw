@@ -130,8 +130,8 @@
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-63" value="稳健性检验" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="607.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-66" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="554" y="592.5" width="80" height="60" as="geometry" />
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-66" value="机制检验" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="607.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
