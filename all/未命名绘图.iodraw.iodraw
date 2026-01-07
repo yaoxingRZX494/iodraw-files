@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="299" y="410" width="321" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="215" width="321" height="155" as="geometry" />
         </mxCell>
@@ -86,8 +89,8 @@
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-40" value="理论机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="270" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="299" y="410" width="321" height="90" as="geometry" />
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
