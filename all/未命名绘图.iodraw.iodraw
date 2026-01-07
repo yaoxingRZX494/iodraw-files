@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="299" y="560" width="321" height="125" as="geometry" />
+        </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="410" width="321" height="90" as="geometry" />
         </mxCell>
@@ -114,9 +117,6 @@
         </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-51" value="模型选择" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="440" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="299" y="560" width="331" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
