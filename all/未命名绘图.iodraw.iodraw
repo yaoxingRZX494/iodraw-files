@@ -118,8 +118,14 @@
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-51" value="模型选择" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="440" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-62" target="Q-ZvsGQuiJrm9gw-XMOJ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-62" value="回归分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="607.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-63" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="592.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
