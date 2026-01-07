@@ -27,7 +27,7 @@
             <mxPoint x="200" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-2" value="理论基础&lt;div&gt;研究综述&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-2" value="理论机制&lt;div&gt;研究综述&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="257.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-5" target="WIyWlLk6GJQsqaUBKTNV-11">
@@ -75,7 +75,7 @@
           <mxGeometry x="450" y="227.5" width="150" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-39" value="四川省数字经济发展通过产业转型升级对城镇居民消费水平存在正向作用" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="298" width="150" height="52" as="geometry" />
+          <mxGeometry x="450" y="297.5" width="150" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
