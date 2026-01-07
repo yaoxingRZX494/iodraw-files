@@ -89,13 +89,14 @@
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-40" value="理论机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="270" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="455" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-44" target="Q-ZvsGQuiJrm9gw-XMOJ-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-44" value="研究对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-49" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="425" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
