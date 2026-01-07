@@ -59,6 +59,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-27" target="Q-ZvsGQuiJrm9gw-XMOJ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-27" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="140" width="80" height="30" as="geometry" />
         </mxCell>
