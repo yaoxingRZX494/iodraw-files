@@ -150,18 +150,6 @@
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-66" value="机制检验" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="607.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-76" value="城乡异质性分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="710" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-77" target="Q-ZvsGQuiJrm9gw-XMOJ-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-77" target="Q-ZvsGQuiJrm9gw-XMOJ-79" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-77" value="异质性分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="737.5" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-79" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;不同发展阶段数字经济异质性&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="750" width="90" height="40" as="geometry" />
         </mxCell>
