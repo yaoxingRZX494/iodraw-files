@@ -136,9 +136,6 @@
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-63" value="稳健性检验" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="607.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7kP2_jdquSNnpw8Q-4Uc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q-ZvsGQuiJrm9gw-XMOJ-66" target="Q-ZvsGQuiJrm9gw-XMOJ-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Q-ZvsGQuiJrm9gw-XMOJ-66" value="内生性检验" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="607.5" width="80" height="30" as="geometry" />
         </mxCell>
@@ -162,6 +159,9 @@
         </mxCell>
         <mxCell id="7kP2_jdquSNnpw8Q-4Uc-2" value="研究综述" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7kP2_jdquSNnpw8Q-4Uc-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
